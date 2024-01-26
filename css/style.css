@@ -1,0 +1,42 @@
+:root{
+    --color-text: #011C44;
+    --color-text-white: #fff;
+    --color-text-black: #000;
+    --color-text-blue: #2B7FFF;
+    --color-date: #747272;
+
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    color: var(--color-text);
+    
+}
+ul{
+    list-style: none;
+}
+
+
+/* header */
+.link{
+  color: var(--color-text); 
+}
+.link:hover{
+    color: var(--color-text-blue);
+}
+
+/* hero-section */
+.hero-title{
+    
+}
+
+/* offers-section */
+
+/* advantages-section */
+
+/* procedures-section */
+
+/* contact-section */
+
+/* footer */
